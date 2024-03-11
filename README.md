@@ -1,4 +1,6 @@
 SOURCE:
  - https://roadmap.sh/python
 
- CURRENTLY ON:  Hash Tables
+ _CURRENTLY ON:_  Hash Tables
+
+ (https://realpython.com/python-hash-table/#understand-the-hash-function)
